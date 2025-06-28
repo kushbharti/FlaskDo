@@ -50,7 +50,7 @@ project/
 <h2>Create & activate virtual environment</h2>
 
 python -m venv env
- .\env\Scripts\activate  # Windows
+ .\env\Scripts\activate  # Windows <br>
  or
  source env/bin/activate  # macOS/Linux
 
