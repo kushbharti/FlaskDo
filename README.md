@@ -51,6 +51,7 @@ project/
 
 python -m venv env
  .\env\Scripts\activate  # Windows
+ or
  source env/bin/activate  # macOS/Linux
 
 <h2> Install dependencies </h2>
