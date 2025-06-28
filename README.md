@@ -1,5 +1,5 @@
 
- <h2> login.html# 📝 Flask To-Do App with Authentication </h2>
+ <h2> # 📝 Flask To-Do App with Authentication </h2>
 
 A simple Flask-based To-Do List web application that supports login, task tracking with status updates, deletion, and clearing — all backed by SQLite and SQLAlchemy.
 
