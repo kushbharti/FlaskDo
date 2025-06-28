@@ -63,8 +63,8 @@ pip install -r requirements.txt
 python main.py
 
 <h2> 🔐 Login Credentials </h2>
-Username	  \t    Password
-admin	      \t    1234
+Username	:- admin <br>
+Password :- 1234<br>
 
 <h2> 🧩 Future Improvements </h2>
 
