@@ -36,15 +36,15 @@ project/  <br>
 │ └── auth.py # Login/logout logic    <br>
 │                                   <br>
 ├── templates/                     <br>
-│ ├── home.html                      <br>
-│ └── login.html                  <br>
-| └── base.html                  <br>
-| └── register.html           <br>
-│                              <br>
+│ ├── home.html                  <br>
+│ └── login.html                <br>
+| └── base.html                <br>
+| └── register.html          <br>
+│                           <br>
 ├── static/ # Optional: styles/scripts  <br>
-├── main.py # App entry point          <br>
-├── requirements.txt # Dependencies     <br>
-└── README.md                        <br>
+├── main.py # App entry point         <br>
+├── requirements.txt # Dependencies  <br>
+└── README.md                    <br>
 
 
 <h2>Create & activate virtual environment</h2>
@@ -63,14 +63,14 @@ pip install -r requirements.txt
 python main.py
 
 <h2> 🔐 Login Credentials </h2>
-Username	      Password
-admin	           1234
+Username	  \t    Password
+admin	      \t    1234
 
 <h2> 🧩 Future Improvements </h2>
 
-User registration system
-Password hashing for security
-Task due dates and priorities
-UI enhancements (CSS/JS)
+User registration system  <br>
+Password hashing for security <br>
+Task due dates and priorities<br>
+UI enhancements (CSS/JS)<br>
 
 
