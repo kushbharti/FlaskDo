@@ -27,31 +27,31 @@ A simple Flask-based To-Do List web application that supports login, task tracki
 
 ## 📁 Project Structure
 
-project/
-│
-├── app/
-│ ├── init.py # App & DB setup
-│ ├── models.py # Task model
-│ ├── views.py # Task routes
-│ └── auth.py # Login/logout logic
-│
-├── templates/
-│ ├── home.html
-│ └── login.html
-| └── base.html
-| └── register.html
-│
-├── static/ # Optional: styles/scripts
-├── main.py # App entry point
-├── requirements.txt # Dependencies
-└── README.md
+project/  <br>
+│        <br>
+├── app/  <br>
+│ ├── init.py # App & DB setup   <br>
+│ ├── models.py # Task model     <br>
+│ ├── views.py # Task routes     <br>
+│ └── auth.py # Login/logout logic    <br>
+│                                   <br>
+├── templates/                     <br>
+│ ├── home.html                      <br>
+│ └── login.html                  <br>
+| └── base.html                  <br>
+| └── register.html           <br>
+│                              <br>
+├── static/ # Optional: styles/scripts  <br>
+├── main.py # App entry point          <br>
+├── requirements.txt # Dependencies     <br>
+└── README.md                        <br>
 
 
 <h2>Create & activate virtual environment</h2>
 
 python -m venv env
  .\env\Scripts\activate  # Windows <br>
- or
+ or <br>
  source env/bin/activate  # macOS/Linux
 
 <h2> Install dependencies </h2>
